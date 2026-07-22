@@ -1,0 +1,27 @@
+# ================================
+
+# Requisitos do Projeto
+
+# ================================
+
+Git
+
+.NET SDK (versão compatível com o projeto)
+
+Node.js (LTS)
+
+npm
+
+# Após instalar os requisitos:
+
+# Backend
+
+cd Backend
+dotnet restore
+dotnet run
+
+# Frontend
+
+cd Frontend
+npm install
+npm run dev

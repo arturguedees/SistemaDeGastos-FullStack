@@ -1,0 +1,36 @@
+# 1. ARQUIVOS E PASTAS DO .NET (BACK-END)
+**/bin/
+**/obj/
+**/.vs/
+**/.vscode/
+**/appsettings.Development.json
+**/appsettings.json
+
+# Banco de dados SQLite gerado localmente
+*.db
+*.db-shm
+*.db-wal
+gastos.db
+
+
+# 2. ARQUIVOS E PASTAS DO REACT / NODE (FRONT-END)
+**/node_modules/
+**/dist/
+**/dist-ssr/
+*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+
+# 3. SISTEMA OPERACIONAL (MACOS / WINDOWS)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
