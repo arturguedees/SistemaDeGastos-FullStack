@@ -1,6 +1,7 @@
 # 📚 README - Desenvolvimento do Projeto
 
 Este documento reúne informações importantes sobre a estrutura, organização e funcionamento do projeto **Sistema de Controle de Gastos Residenciais**.
+
 <img width="1676" height="796" alt="Captura de Tela 2026-07-22 às 16 23 53" src="https://github.com/user-attachments/assets/f2ce122e-bbfa-4cdb-921e-6be32c7def17" />
 <img width="1680" height="804" alt="Captura de Tela 2026-07-22 às 16 23 41" src="https://github.com/user-attachments/assets/84c6caaf-53eb-4461-8127-5a0462fe9d9e" />
 <img width="1675" height="812" alt="Captura de Tela 2026-07-22 às 16 23 26" src="https://github.com/user-attachments/assets/21f7bc51-de59-4c31-9b96-b9714578ac6b" />
